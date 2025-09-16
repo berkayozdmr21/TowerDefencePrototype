@@ -44,4 +44,5 @@ Oyun içinden bazı görüntüler:
 🛠️ Geliştirme Ortamı
 
 Oyun Motoru → Unity
+
 Programlama Dili → C#
